@@ -15,7 +15,7 @@ if(convertePin===1234){
     
 }
 else{
-   console.log('pin thik nei'); 
+  alert('Hoba na Mama'); 
 }
 
 

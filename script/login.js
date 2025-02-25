@@ -14,10 +14,10 @@ if(accountNumber.length === 11){
         window.location.href="./main.html"
     }
     else{
-        alert('pin thik nei');
+        alert(' Mama pin thik nei');
     }
 }
 else{
-    alert('need valid number')
+    alert(' Mama need valid number')
 }
 })
